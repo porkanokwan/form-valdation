@@ -56,6 +56,16 @@
   outline: none;
 }
 
+.Invalid {
+  border: 1px solid red ;
+  background-color: salmon;
+}
+
+.ErrorMessage {
+  color: red;
+  margin: 5px 0px;
+}
+
 .App {
   text-align: center;
 }
